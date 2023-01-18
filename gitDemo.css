@@ -1,12 +1,16 @@
 body {
-    background-color:blueviolet;
+    background-image:url(background1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
-    color: red;
+    color: blue;
     font-family: arial black;
+    font-size: 40px;
 }
 
 p {
-    color:white;
+    color:green;
+    font-family: arial black;
 }
